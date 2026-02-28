@@ -4,6 +4,10 @@ AgenticRAG is an intelligent **Retrieval-Augmented Generation (RAG)** system tha
 It automatically routes data and queries across domains, validates retrieved context, and iteratively refines retrieval to generate accurate, context-rich responses.  
 This project demonstrates **adaptive reasoning, automated data routing, and domain-aware knowledge retrieval**.
 
+<p align="center">
+  <img src="images/agenticrag.png" width="80%">
+</p>
+
 ---
 
 ## ✨ Features
